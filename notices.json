@@ -7,8 +7,11 @@
       "title_en": "Hare Krishna",
       "body_bn": "এখন থেকে অ্যাপের এই জায়গায় মাঝে মাঝে গুরুত্বপূর্ণ খবর জানানো হবে।",
       "body_en": "From now on, important updates will occasionally appear here.",
-      "https://github.com/sajalscb/ekadashi-notices/blob/main/Ekadashi_Alarm_Cover%E0%A7%A7.png?raw=true": "",
+      "images": [
+        "https://github.com/sajalscb/ekadashi-notices/blob/main/Ekadashi_Alarm_Cover%E0%A7%A7.png?raw=true",
+        "এখানে দ্বিতীয় ছবির লিংক বসান"
+      ],
       "expires": ""
-    },
+    }
   ]
 }
