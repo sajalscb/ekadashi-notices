@@ -1,14 +1,14 @@
 {
   "notices": [
     {
-      "id": "1",
+      "id": "2",
       "date": "2026-09-26",
-      "title_bn": "স্বাগতম!",
-      "title_en": "Welcome!",
+      "title_bn": "হরে কৃষ্ণ",
+      "title_en": "Hare Krishna",
       "body_bn": "এখন থেকে অ্যাপের এই জায়গায় মাঝে মাঝে গুরুত্বপূর্ণ খবর জানানো হবে।",
       "body_en": "From now on, important updates will occasionally appear here.",
-      "image": "",
+      "https://github.com/sajalscb/ekadashi-notices/blob/main/Ekadashi_Alarm_Cover%E0%A7%A7.png?raw=true": "",
       "expires": ""
-    }
+    },
   ]
 }
